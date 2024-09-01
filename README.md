@@ -29,8 +29,15 @@ Se solicita crear una aplicación tipo CRUD disponibilizando las rutas señalada
 
 ## Visuales :mage_woman:
 
+![Captura de Pantalla 2024-09-01 a la(s) 16 26 35](https://github.com/user-attachments/assets/342cea50-863f-47e6-929e-620ed34e23a9)
 
+![Captura de Pantalla 2024-09-01 a la(s) 16 29 52](https://github.com/user-attachments/assets/46d5ebce-5577-469b-ada0-20453f8d8af1)
 
+![Captura de Pantalla 2024-09-01 a la(s) 16 30 04](https://github.com/user-attachments/assets/1e985db8-83fa-45a5-8377-c0f2b6b29f8c)
+
+![Captura de Pantalla 2024-09-01 a la(s) 16 30 22](https://github.com/user-attachments/assets/4996825a-cea1-48d4-a72e-5ead52570101)
+
+![Captura de Pantalla 2024-09-01 a la(s) 16 30 58](https://github.com/user-attachments/assets/b410365c-e493-45a0-a53c-90fa252fb080)
 
 
 ## Construido Con 🛠️
